@@ -71,3 +71,9 @@ tips는 특징을 많이 넣을수록 오히려 점수가 떨어져서, 의미 �
 - Python 3.12
 - pandas, numpy, matplotlib, seaborn, scikit-learn, torch
 - 그래프 한글 폰트: `Malgun Gothic` (Windows 기준)
+
+## WBS 일정
+
+프로젝트 범위를 진행단계 → 수행내용 → 상세수행내용으로 나누고, 상세수행내용마다 기간을 정해 일정으로 관리했습니다.
+
+![WBS 일정](docs/wbs.png)
