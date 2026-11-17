@@ -1,0 +1,18 @@
+# PyCharm / VS Code 설정
+.idea/
+.vscode/
+
+# 가상환경
+venv/
+.venv/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+
+# Kaggle 대회 원본 데이터 (대회 페이지에서 직접 받기)
+01_titanic/**/train.csv
+01_titanic/**/test.csv
+01_titanic/**/titanic.csv
+02_spaceship_titanic/**/train.csv
+02_spaceship_titanic/**/test.csv
