@@ -1,4 +1,4 @@
-# kaggle-eda-ml-project
+# kaggle-eda-ml-projects
 
 Kaggle 대회 데이터와 seaborn 내장 데이터로 **EDA → 전처리 → 모델 학습 → 평가 → 캐글 제출**까지 직접 해 본 연습 모음입니다.
 scikit-learn 모델 비교, 교차검증·혼동행렬 같은 평가 방법, 비지도학습(KMeans·PCA), 같은 데이터로 PyTorch MLP와 sklearn 비교까지 담았습니다.
